@@ -55,8 +55,8 @@ I work on dashboards, e-commerce platforms, CMS, and more.
 
 ## 📬 Connect With Me
 
-- 📧 Email: `shaheedmhmed@gmail.com `
-- 🌐 Portfolio: `https://shaheed-portfolio.vercel.app/` *(لو عندك موقع شخصي)*
+- 📧 Email: (shaheedmhmed@gmail.com)
+- 🌐 Portfolio: (https://shaheed-portfolio.vercel.app/)
 - 💼 LinkedIn: (https://www.linkedin.com/in/shaheed-mohamed-6618b3348/)
 
 ---

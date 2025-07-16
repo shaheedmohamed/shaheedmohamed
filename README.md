@@ -40,7 +40,7 @@ I enjoy turning complex problems into simple, beautiful solutions and learning n
 
 ## 🚀 Projects
 
-Check out some of my featured repositories in the [Projects](https://github.com/shaheeddev?tab=repositories) tab above!  
+Check out some of my featured repositories in the [Projects]([https://github.com/shaheeddev?tab=repositories](https://github.com/shaheedmohamed?tab=repositories)) tab above!  
 I work on dashboards, e-commerce platforms, CMS, and more.
 
 ---
@@ -55,9 +55,9 @@ I work on dashboards, e-commerce platforms, CMS, and more.
 
 ## 📬 Connect With Me
 
-- 📧 Email: `your.email@example.com`
-- 🌐 Portfolio: `yourportfolio.com` *(لو عندك موقع شخصي)*
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: `shaheedmhmed@gmail.com `
+- 🌐 Portfolio: `https://shaheed-portfolio.vercel.app/` *(لو عندك موقع شخصي)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/shaheed-mohamed-6618b3348/)
 
 ---
 
